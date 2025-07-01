@@ -20,7 +20,7 @@ dependencies = [
     "matplotlib>=3.10.0",
     "meshcat>=0.3.2",
     "mim-solvers>=0.0.5",
-    "proxsuite>=0.7.1",
+    "proxsuite>=0.7.1, != 0.7.2.post1",
     "scipy>=1.15.0",
 ]
 
